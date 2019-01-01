@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="img">
+    <file>resources/balloon.png</file>
+    <file>resources/light_o.png</file>
+    <file>resources/green_o.png</file>
+    <file>resources/red_o_big.png</file>
+    <file>resources/water.png</file>
+    <file>resources/logo.PNG</file>
+    <file>resources/green_o_big.png</file>
+    <file>resources/bg.jpg</file>
+    <file>resources/on.jpg</file>
+    <file>resources/light_f.png</file>
+    <file>resources/off.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,71 @@
+{
+    "SETTINGS": {
+        "fan": {
+            "fan1": "off",
+            "fan2": "off"
+        },
+        "uv": "off",
+        "led": {
+            "1": {
+                "act": "O",
+                "on_at": "21:07",
+                "off_at": "21:16"
+            },
+            "2": {
+                "act": "O",
+                "on_at": "12:00",
+                "off_at": "12:02"
+            },
+            "3": {
+                "act": "O",
+                "on_at": "12:00",
+                "off_at": "12:03"
+            },
+            "4": {
+                "act": "O",
+                "on_at": "12:00",
+                "off_at": "12:01"
+            },
+            "5": {
+                "act": "O",
+                "on_at": "12:00",
+                "off_at": "12:01"
+            },
+            "6": {
+                "act": "O",
+                "on_at": "12:00",
+                "off_at": "12:01"
+            },
+            "7": {
+                "act": "O",
+                "on_at": "12:00",
+                "off_at": "12:01"
+            },
+            "8": {
+                "act": "O",
+                "on_at": "12:00",
+                "off_at": "12:01"
+            }
+        },
+        "tds": {
+            "low": 0,
+            "high": 2000
+        },
+        "ph": {
+            "low": 0.0,
+            "high": 14.0
+        },
+        "nut": {
+            "volume": 27,
+            "ratio": 7
+        },
+        "nut_freq": 2,
+        "nut_time": 1,
+        "sens_freq": 10,
+        "sens_unit": "s",
+        "serv_freq": 11,
+        "serv_unit": "s",
+        "serv_add": "1.0.0.1",
+        "serv_port": "1"
+    }
+}
